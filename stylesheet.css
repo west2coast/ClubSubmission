@@ -1,0 +1,69 @@
+body {
+	background-color: #D3D3D3;
+}
+.homepageColor {
+	background-color: #5c1215;
+}
+
+table.form {
+	padding: 40px;
+	margin: 0 auto;
+	background-color: white;
+}
+td.table ,tr.table, th.table {
+	padding: auto;
+	border: #000 1px solid;
+}
+td {
+	font-size: 20px;
+}
+h1, h3 {
+	text-align: center;
+}
+p {
+	text-align: center;
+	color: red;
+}
+
+.newp {
+	text-align: center;
+	color: black;
+}
+
+img {
+	height= 320px; 
+	width= 800px;
+	position: absolute;
+	top: 50%;
+	left: 42%;
+	margin-top: -160px; /* Half of height */
+	margin-left: -400px; /* Half of width */
+
+}
+.homepageP {
+	top: 50%;
+	left: 42%;
+	color: white;
+}
+select	{
+	
+	font-size: 15px;
+}
+
+.inputfield {
+	width: 300px;
+	height: 20px;
+	font-size: 20px;
+}
+
+.error {
+	color: red;
+}
+
+table.table {
+	background-color: white;
+	border-collapse: collapse;
+	border: #000 1px solid;
+	margin-left: auto;
+	margin-right: auto;
+}
